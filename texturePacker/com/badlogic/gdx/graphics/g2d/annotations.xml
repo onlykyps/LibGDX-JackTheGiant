@@ -1,0 +1,5 @@
+<root>
+    <item name='com.badlogic.gdx.graphics.g2d.TextureRegion'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
